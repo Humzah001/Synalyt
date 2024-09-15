@@ -119,7 +119,7 @@ return (
             <li className="flex flex-col items-center space-y-2 border-gray-800 p-4 rounded-lg">
             <h3 className="text-xl font-bold text-center">Custom Analysis</h3>
             <p className="text-sm text-gray-500 dark:text-gray-400 text-center">
-                Specify exactly what you want to analyze, and we'll deliver targeted insights.
+                Specify exactly what you want to analyze, and we&aposll deliver targeted insights.
             </p>
             </li>
             <li className="flex flex-col items-center space-y-2 border-gray-800 p-4 rounded-lg">
